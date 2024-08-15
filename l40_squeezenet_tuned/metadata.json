@@ -1,0 +1,16 @@
+{
+        "load_time": 1000000000,
+        "exec_time": [1000000,2000000,4000000,8000000],
+        "weights_size": 100000000,
+        "workspace_size": 500000000,
+        "input_name" : "input",
+        "output_name" : "output",
+        "input_shape": [1,3,224,224],
+        "output_shape": [1,1000],
+        "input_type": "FP32",
+        "output_type": "FP32",
+        "device": "CUDA",
+        "model" : "a100",
+        "architecture" : "CUDA_80"
+
+}

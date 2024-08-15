@@ -4,3 +4,4 @@ mod.json
 mod.params
 model.tar
 tuning*.json
+.nfs*
