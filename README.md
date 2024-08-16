@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13332436.svg)](https://doi.org/10.5281/zenodo.13332436)
+
+
+
 This folder contains a set of scripts (and eventually models) used for evaluating the inference serving prototype.
 
 These require a standard version of TVM to be known to your Python interpreter, either via `PYTHONPATH` or via a virtual environment.
